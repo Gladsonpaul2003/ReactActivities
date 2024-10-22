@@ -1,0 +1,8 @@
+#var
+var name = "John";
+
+#let
+let age = 25;
+
+#const
+const pi = 3.14;

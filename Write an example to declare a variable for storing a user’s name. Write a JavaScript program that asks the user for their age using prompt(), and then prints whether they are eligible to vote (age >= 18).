@@ -1,0 +1,8 @@
+let userName = "Alice"; // You can change the name or make it dynamic
+let userAge = prompt("Please enter your age:");
+userAge = Number(userAge);
+if (userAge >= 18) {
+    console.log(userName + ", you are eligible to vote!");
+} else {
+    console.log(userName + ", you are not eligible to vote.");
+}
